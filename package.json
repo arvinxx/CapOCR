@@ -1,0 +1,14 @@
+{
+  "name": "ocrtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "author": "ArvinX",
+  "license": "MIT",
+  "dependencies": {
+    "baidu-aip-sdk": "^1.4.1"
+  }
+}
